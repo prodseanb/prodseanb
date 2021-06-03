@@ -1,4 +1,7 @@
 # 👋 Hi, I’m Sean Bachiller, 
+![coding-freak](https://user-images.githubusercontent.com/59718043/120569688-6dfa1d80-c3e4-11eb-9487-7e03afbc1ab1.gif)
+
+
 ## Background
 🌱 I am an upcoming Computer Systems Technology [DC BITM](https://durhamcollege.ca/academic-schools/school-of-business-it-management) graduate. Avid learner of Python, AI and Machine Learning, InfoSec, DevOps, and more. Equally driven to cooperate and work in both team and independent settings.
 ## Pages
