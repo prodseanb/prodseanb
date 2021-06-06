@@ -37,6 +37,6 @@ I am always open and available to work on research projects, labs, websites, blo
 /***
  *  Repos by Sean Bachiller.
  *  >> Python, security tools, web scraping, data analysis, cryptography, research, etc.
- *  >> Make a pull request! Let's get to work.
+ *  >> Send me a pull request! Let's get to work.
  */ 
 ```
