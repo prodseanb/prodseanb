@@ -9,7 +9,7 @@
  *    |___|    |___|  |_||_______||______| |_______||_______||__| |__||_|  |__||_______|
  *
  *  Hello World! I'm Sean Bachiller.
- *  >> Python, DevOps, InfoSec Researcher
+ *  >> InfoSec Researcher
  *  >> Durham College School of Business, IT & Management (BITM) Computer Systems Technician
  *
  */ 
