@@ -20,12 +20,12 @@
 [![Maintaner](https://img.shields.io/badge/seanb-dev-blue)](https://seanb.dev/)
 ![eye](https://user-images.githubusercontent.com/59718043/120596190-6ef57400-c411-11eb-8940-aa887e5e804a.gif)
 ## 🌱 Background
-I am an upcoming Computer Systems Technology [DC BITM](https://durhamcollege.ca/academic-schools/school-of-business-it-management) graduate. Avid learner of Python, AI and Machine Learning, InfoSec, DevOps, and more. Equally driven to cooperate and work in both team and independent settings.
+I am an InfoSec researcher. Avid learner of Python, AI and Machine Learning, Information Security, DevOps, and more. Equally driven to cooperate and work in both team and independent settings.
 ## 📃 seanb.dev
 ```python
 ## @Author: prodseanb
 ```
-[seanb.dev](https://seanb.dev/) is my space for creative and analytical thinking. This site consists of research, projects, labs, and any material that I've worked on. This repository of research is comprised of topics, subfields, and domains related but not limited to Technology, Information Security, Programming, Python, Artificial Intelligence and Machine Learning, DevOps, and more along the world of computers and technology.
+[seanb.dev](https://seanb.dev/) is my space for creative and analytical thinking. This site contains some of my research articles, walkthroughs, and opinions on a broad range of tech domains and territories such as Python programming, Artificial Intelligence and Machine Learning, Information Security, and more along the world of computers and technology. Check it out. 
 ## 👥 Always looking to collaborate!
 I am always open and available to work on research projects, labs, websites, blog articles, coding solutions, etc. Want to conduct business? Send me a message on [LinkedIn](https://www.linkedin.com/in/sean-bachiller-40b63417b/).
 
