@@ -8,9 +8,8 @@
  *    |   |    |   |  | ||       ||       | _____| ||   |___ |   _   || | |   || |_|   |
  *    |___|    |___|  |_||_______||______| |_______||_______||__| |__||_|  |__||_______|
  *
- *  Hello World! I'm Sean Bachiller.
+ *  Hello world! I'm Sean Bachiller.
  *  >> InfoSec Researcher
- *  >> Durham College School of Business, IT & Management (BITM) Computer Systems Technician
  *
  */ 
 ```
