@@ -16,6 +16,7 @@
 [![Maintaner](https://img.shields.io/badge/DockerHub-profile-blue)](https://hub.docker.com/u/prodseanb)
 [![Generic badge](https://img.shields.io/badge/follow-LinkedIn-<COLOR>.svg)](https://www.linkedin.com/in/sean-bachiller-40b63417b/)
 [![Generic badge](https://img.shields.io/badge/follow-Twitter-<COLOR>.svg)](https://twitter.com/prodseanb)
+[![Generic badge](https://img.shields.io/badge/follow-Instagram-<COLOR>.svg)](https://www.instagram.com/cyferpunk/)
 [![Maintaner](https://img.shields.io/badge/seanb-dev-blue)](https://seanb.dev/)
 ![eye](https://user-images.githubusercontent.com/59718043/120596190-6ef57400-c411-11eb-8940-aa887e5e804a.gif)
 ## 🌱 Background
