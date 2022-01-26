@@ -20,7 +20,8 @@
 [![Generic badge](https://img.shields.io/badge/follow-Instagram-<COLOR>.svg)](https://www.instagram.com/cyferpunk/)
 [![Maintaner](https://img.shields.io/badge/seanb-dev-blue)](https://seanb.dev/)
 ![eye](https://user-images.githubusercontent.com/59718043/120596190-6ef57400-c411-11eb-8940-aa887e5e804a.gif)
-## 🌱 Background
+
+  ## 🌱 Background
 I am an InfoSec researcher. Avid learner of Python, AI and Machine Learning, Information Security, DevOps, and more. Equally driven to cooperate and work in both team and independent settings.
 ## 📃 seanb.dev
 ```python
