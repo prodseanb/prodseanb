@@ -1,14 +1,15 @@
 ```
+
 /***
- *     _______  ______    _______  ______   _______  _______  _______  __    _  _______ 
- *    |       ||    _ |  |       ||      | |       ||       ||   _   ||  |  | ||  _    |
- *    |    _  ||   | ||  |   _   ||  _    ||  _____||    ___||  |_|  ||   |_| || |_|   |
- *    |   |_| ||   |_||_ |  | |  || | |   || |_____ |   |___ |       ||       ||       |
- *    |    ___||    __  ||  |_|  || |_|   ||_____  ||    ___||       ||  _    ||  _   | 
- *    |   |    |   |  | ||       ||       | _____| ||   |___ |   _   || | |   || |_|   |
- *    |___|    |___|  |_||_______||______| |_______||_______||__| |__||_|  |__||_______|
- *
- *  >> InfoSec Researcher, IT Student, Enthusiast
+ *       _____                    ____             _     _ _ _           
+ *      / ____|                  |  _ \           | |   (_) | |          
+ *     | (___   ___  __ _ _ __   | |_) | __ _  ___| |__  _| | | ___ _ __ 
+ *      \___ \ / _ \/ _` | '_ \  |  _ < / _` |/ __| '_ \| | | |/ _ \ '__|
+ *      ____) |  __/ (_| | | | | | |_) | (_| | (__| | | | | | |  __/ |   
+ *     |_____/ \___|\__,_|_| |_| |____/ \__,_|\___|_| |_|_|_|_|\___|_|   
+ *                                                                       
+ *                                                                      
+ *  >> InfoSec Researcher, Networking Student, IT Enthusiast
  *  >> IG: @cyferpunk
  *
  */ 
@@ -23,7 +24,7 @@
 I am an InfoSec researcher. Avid learner of Python, AI and Machine Learning, Information Security, DevOps, and more. Equally driven to cooperate and work in both team and independent settings.
 ## 📃 seanb.dev
 ```python
-## @Author: prodseanb
+## @Author: Sean Bachiller
 ```
 [seanb.dev](https://seanb.dev/) is my space for creative and analytical thinking. This site contains some of my research articles, walkthroughs, and opinions on a broad range of tech domains and territories such as Python programming, Artificial Intelligence and Machine Learning, Information Security, and more along the world of computers and technology. Check it out. 
 ## 👥 Always looking to collaborate!
