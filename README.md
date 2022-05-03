@@ -10,7 +10,7 @@
  *                                                                       
  *                                                                      
  *  >> InfoSec Researcher, Networking Student, IT Enthusiast
- *  >> IG: @cyferpunk
+ * 
  *
  */ 
 ```
