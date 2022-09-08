@@ -9,7 +9,7 @@
  *     |_____/ \___|\__,_|_| |_| |____/ \__,_|\___|_| |_|_|_|_|\___|_|   
  *                                                                       
  *                                                                      
- *  >> InfoSec Researcher, Networking Student, IT Enthusiast
+ *  >> InfoSec Researcher, Networking Student, IT Professional
  * 
  *
  */ 
@@ -17,17 +17,11 @@
 [![Maintaner](https://img.shields.io/badge/DockerHub-profile-blue)](https://hub.docker.com/u/prodseanb)
 [![Generic badge](https://img.shields.io/badge/follow-LinkedIn-<COLOR>.svg)](https://www.linkedin.com/in/sean-bachiller-40b63417b/)
 [![Generic badge](https://img.shields.io/badge/follow-Twitter-<COLOR>.svg)](https://twitter.com/prodseanb)
-[![Generic badge](https://img.shields.io/badge/follow-Instagram-<COLOR>.svg)](https://www.instagram.com/cyferpunk/)
-[![Maintaner](https://img.shields.io/badge/seanb-dev-blue)](https://seanb.dev/)
 ![eye](https://user-images.githubusercontent.com/59718043/120596190-6ef57400-c411-11eb-8940-aa887e5e804a.gif)
 
   ## 🌱 Background
-I am an InfoSec researcher. Avid learner of Python, AI and Machine Learning, Information Security, DevOps, and more. Equally driven to cooperate and work in both team and independent settings.
-## 📃 seanb.dev
-```python
-## @Author: Sean Bachiller
-```
-[seanb.dev](https://seanb.dev/) is my space for creative and analytical thinking. This site contains some of my research articles, walkthroughs, and opinions on a broad range of tech domains and territories such as Python programming, Artificial Intelligence and Machine Learning, Information Security, and more along the world of computers and technology. Check it out. 
+Avid student of Cisco Networking, Azure, Python, AI and Machine Learning, Information Security, DevOps, and more.
+
 ## 👥 Always looking to collaborate!
 I am always open and available to work on research projects, labs, websites, blog articles, coding solutions, etc. Want to conduct business? Send me a message on [LinkedIn](https://www.linkedin.com/in/sean-bachiller-40b63417b/).
 
