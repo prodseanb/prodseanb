@@ -9,7 +9,7 @@
  *     |_____/ \___|\__,_|_| |_| |____/ \__,_|\___|_| |_|_|_|_|\___|_|   
  *                                                                       
  *                                                                      
- *  >> InfoSec Researcher, Networking Student, IT Professional
+ *  >> IT Professional, Self-taught dev
  * 
  *
  */ 
