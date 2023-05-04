@@ -20,7 +20,7 @@
 
 
   ## 🌱 Intro
-As an IT Professional with a solid academic background and technical proficiency, I have developed a keen interest in networking, open-source, and cloud technologies. My passion for the latest advancements in AI and Machine Learning has also driven me to stay updated on the latest industry trends and developments.
+As an IT Professional with a solid academic background and technical proficiency, I have developed a keen interest in networking, programming, open-source, and cloud technologies. My passion for the latest advancements in AI and Machine Learning has also driven me to stay updated on the latest industry trends and developments.
 
 With a solutions-oriented mindset, I am dedicated to delivering results that help people succeed. I thrive in dynamic environments that challenge me to think creatively and act decisively. Whether working independently or as part of a team, I am committed to exceeding expectations and achieving excellence in everything I do.
 
